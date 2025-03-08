@@ -8,7 +8,7 @@ public class FirstController {
 
     @GetMapping("/hello")
     public String sayHello() {
-        return "Hello! World. code uploaded in Git, main's 1 commit";
+        return "Hello! World. M22";
     }
 
 }
